@@ -1,0 +1,28 @@
+# PyInstaller build artifacts
+dist/
+build/
+*.spec
+
+# Python environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+.pytest_cache/
+.coverage
